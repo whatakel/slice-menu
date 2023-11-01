@@ -1,2 +1,3 @@
-# slice-menu
-Simple menu effect
+# Slice menu effect
+
+Repository for demonstration
